@@ -1,7 +1,7 @@
 import pymongo
 import datetime
 import time
-from pymongo import MongoClient
+#from pymongo import MongoClient
 
 
 #For example purpose this code populates a mongodb collection with a dummy data every 10 seconds.
