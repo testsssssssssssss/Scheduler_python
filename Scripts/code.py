@@ -1,2 +1,2 @@
-print("Goodbye, World!")
+sys.stdout.write("Goodbye, World!")
     
