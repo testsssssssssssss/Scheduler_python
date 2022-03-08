@@ -1,7 +1,6 @@
 
 import datetime
 import time
-import smtplib
 
 while(True):
     print("now changed.. this is a test 5")
